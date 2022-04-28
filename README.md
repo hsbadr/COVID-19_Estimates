@@ -22,6 +22,8 @@ The estimates are generated using [`EpiNow2`](https://cran.r-project.org/package
 |    **Sex**    | Character | Sex/gender of the estimated infections                       |
 |  **Source**   | Character | Epidemiological data source as listed in the unified dataset |
 
+See [case types](https://github.com/CSSEGISandData/COVID-19_Unified-Dataset#case-types) in the unified COVID-19 dataset.
+
 ## Credits
 
 This work is supported by NASA Health & Air Quality project `80NSSC18K0327`, under a COVID-19 supplement, and National Institute of Health (NIH) project `3U19AI135995-03S1` ("Consortium for Viral Systems Biology (CViSB)"; Collaboration with The Scripps Research Institute and UCLA).
