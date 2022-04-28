@@ -17,9 +17,9 @@ The estimates are generated using [`EpiNow2`](https://cran.r-project.org/package
 |   **Date**    |   Date    | Date of data record                                          |
 |    **I**      |  Double   | Estimates of daily infections                                |
 |    **R**      |  Double   | Estimates of effective reproduction number                   |
-|   **Type**    | Character | Type of the reported cases                                   |
-|    **Age**    | Character | Age group of the reported cases                              |
-|    **Sex**    | Character | Sex/gender of the reported cases                             |
+|   **Type**    | Character | Type of the estimated infections                             |
+|    **Age**    | Character | Age group of the estimated infections                        |
+|    **Sex**    | Character | Sex/gender of the estimated infections                       |
 |  **Source**   | Character | Epidemiological data source as listed in the unified dataset |
 
 ## Credits
